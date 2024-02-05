@@ -95,6 +95,6 @@ Created test cases in excel for different test scenarios
    * Test Case #1. [Here you can access the Excel sheet](https://docs.google.com/spreadsheets/d/16_azjeBGxY_ESWUU6DFAupXCTOKgoOtXNGx2oOLruSc/edit?usp=sharing)
    * Test case #2. [Here you can access the Excel sheet](https://docs.google.com/spreadsheets/d/1S8_vUra4x3CDEEXqswsPXGi_tMDAZEIzDIif6tNvM1w/edit?usp=sharing)
 ## Cucumber Automation
-   * Wrote scenario and step definitions for a login functionality. [Here] you can find the code and [here] you can find the report from Cucumber
+   * Wrote scenario and step definitions for a login functionality. [Here](https://github.com/Metrorex/Automation-Work-Examples/tree/main/CucumberAutomation) you can find the code and [here](https://drive.google.com/file/d/1w3wfdsBF8fh6AeOLPrJFBXPn9Y3NoA70/view?usp=sharing) you can find the report from Cucumber
 ## Selenium
-   * Created automated tests for [validLogin]/[invalidLogin]/[placeOrder functionality].
+   * Created automated tests for [validLogin](https://github.com/Metrorex/Automation-Work-Examples/tree/main/AutomationSelenium/src)/[invalidLogin](https://github.com/Metrorex/Automation-Work-Examples/tree/main/AutomationSelenium/src)/[placeOrder functionality](https://github.com/Metrorex/Automation-Work-Examples/tree/main/AutomationSelenium/src).
