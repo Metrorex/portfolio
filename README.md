@@ -85,7 +85,7 @@ __The Complete 2023 Software Testing Bootcamp__
 __Software Testing__
 *online course by [Scoala Informala de IT](https://scoalainformala.ro/cursuri/cursuri-testare-software-online/)*
  <br>A complete course about manual software testing 
- <br>Still attending 
+ <br>COR 351201
 
 # Examples of my work
 ## Mindmap 
