@@ -17,7 +17,7 @@ My portfolio as an aspiring Software Tester
 # About Me
 I'm Madalin, a dedicated and detail-oriented aspiring Software Tester. My passion for software testing started back in the day when I was playing a lot of games. While enjoying my time gaming, I came across to the so-called "bugs" and little did I know then that I would start hunting them down more than the final level boss.
 
-You might assume that I have a Bachelor's degree in Computer Science, but, in fact, I hold a Bachelor's degree in Business Administration. Nevertheless, I do not regret my choice simply because I wanted to learn and better understand the needs of a client to provide unique solutions to their needs.
+I hold a Bachelor's degree in Business Administration. It was my go to choice simply because I wanted to learn and better understand the needs of a client to provide unique solutions to their needs.
 
 The skills I have honed and developed vary, from ability to use various software like Jira, Postman, Selenium, Cucumber framework (to a specific degree) to using them in individual projects.
 
